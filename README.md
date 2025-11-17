@@ -9,7 +9,7 @@
 - <b>Analysis Using PowerBi</b>
   - [Comprehensive Understanding of Revenue Generation by the Hotel Industry](https://github.com/Opsmiles/Hospitality-Data-Analysis)
 - <b>Analysis Using Excel</b>
-  - [Evaluating HR Operational Efficiency](https://github.com/Opsmiles/HR-Analytics-Dashboard) <b><i>(Potentially NSFW)</b></i>
+  - [Evaluating HR Operational Efficiency](https://github.com/Opsmiles/HR-Analytics-Dashboard) <b><i></b></i>
 - <b>Analysis Using SQL</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
