@@ -21,6 +21,8 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Analysis using LookerStudio</b>
   - [Tracking Order to Optimize Customer Activity and Shipping Efficiency)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Excel & Google_Sheet Automation</b>
+  - [Tracking Inventory Level and Sales Management](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
